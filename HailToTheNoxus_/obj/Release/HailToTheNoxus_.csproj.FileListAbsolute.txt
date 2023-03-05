@@ -1,0 +1,14 @@
+C:\Users\anoni\source\repos\HailToTheNoxus_\HailToTheNoxus_\bin\Release\HailToTheNoxus_.exe.config
+C:\Users\anoni\source\repos\HailToTheNoxus_\HailToTheNoxus_\bin\Release\HailToTheNoxus_.exe
+C:\Users\anoni\source\repos\HailToTheNoxus_\HailToTheNoxus_\bin\Release\HailToTheNoxus_.pdb
+C:\Users\anoni\source\repos\HailToTheNoxus_\HailToTheNoxus_\bin\Release\Newtonsoft.Json.dll
+C:\Users\anoni\source\repos\HailToTheNoxus_\HailToTheNoxus_\bin\Release\Newtonsoft.Json.xml
+C:\Users\anoni\source\repos\HailToTheNoxus_\HailToTheNoxus_\obj\Release\HailToTheNoxus_.csproj.AssemblyReference.cache
+C:\Users\anoni\source\repos\HailToTheNoxus_\HailToTheNoxus_\obj\Release\HailToTheNoxus_.csproj.SuggestedBindingRedirects.cache
+C:\Users\anoni\source\repos\HailToTheNoxus_\HailToTheNoxus_\obj\Release\HailToTheNoxus_.Form1.resources
+C:\Users\anoni\source\repos\HailToTheNoxus_\HailToTheNoxus_\obj\Release\HailToTheNoxus_.Properties.Resources.resources
+C:\Users\anoni\source\repos\HailToTheNoxus_\HailToTheNoxus_\obj\Release\HailToTheNoxus_.csproj.GenerateResource.cache
+C:\Users\anoni\source\repos\HailToTheNoxus_\HailToTheNoxus_\obj\Release\HailToTheNoxus_.csproj.CoreCompileInputs.cache
+C:\Users\anoni\source\repos\HailToTheNoxus_\HailToTheNoxus_\obj\Release\HailToTheNoxus_.csproj.CopyComplete
+C:\Users\anoni\source\repos\HailToTheNoxus_\HailToTheNoxus_\obj\Release\HailToTheNoxus_.exe
+C:\Users\anoni\source\repos\HailToTheNoxus_\HailToTheNoxus_\obj\Release\HailToTheNoxus_.pdb
