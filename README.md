@@ -3,7 +3,7 @@ Make profit on disenchanting!
 Use it before the big patch (price changes)
 # How to use?
 1. Login and Start League of Legend Client
-2. Run HailToTheNoxus_.exe
+2. Run HailToTheNoxus_.exe ([Download](https://github.com/Ac3mi/HailToTheNoxus/releases/download/v0.0.1/HailToTheNoxus_FINAL.zip))
 3. Select champion(s) to disenchant
 > Green box (or image with green border) means that this champion would be more **expensive** in next patch, so keep them on value of "0".
 > Red box (or image with red border) means that this champion would be **cheaper** OR **equal** in next patch, so you can disenchant them.
