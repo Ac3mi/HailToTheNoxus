@@ -1,4 +1,4 @@
-# HailToTheNoxus
+# HailToTheNoxus (OUTDATED)
 Make profit on disenchanting!
 Use it before the big patch (price changes)
 # How to use?
